@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int SETTINGS_REQUEST_CODE = 100;
     private static final int CALENDAR_REQUEST_CODE = 101;
     private static final int LOCATION_REQUEST_CODE = 102;
-    private static final String API_KEY = "48195b9011d17159a62fd0c8d9977a6e"; // Replace with your actual API key
+    private static final String API_KEY = "API key"
 
     private TextView temperatureTextView;
     private TextView locationTextView;
